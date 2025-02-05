@@ -79,25 +79,25 @@ The dataset has 418,279 entries and 12 columns. The following summarizes the key
 Based on the distribution map of retention rates, it can be observed that China has the highest retention rate at 33.66%, while Spain has the lowest retention rate at 0.04%.
 
 # Summary
-Customer Activity Stages:
+## Customer Activity Stages:
 - Highest Frequency: Adding items to the cart.
 - Lowest Frequency: Cancelling a purchase.
-Traffic Sources:
+## Traffic Sources:
 - Main Source: Email, driving significant customer engagement.
 - Next Best Source: Paid advertising.
 - Lowest Contribution: Organic search.
-Retention Rates:
+## Retention Rates:
 - Event Types: Similar curves for product, purchase, and cart categories; home has the lowest retention.
 - Overall Trends: Sharp decline in retention from January to February, with a downward trend throughout the year.
 - Email shows the highest retention compared to other sources.
 - Facebook and YouTube have nearly identical retention patterns.
-Gender Distribution:
+## Gender Distribution:
 - A higher proportion of female visitors compared to male, but no significant statistical difference.
-Geographic Performance:
+## Geographic Performance:
 - Highest Retention: China (33.66%).
 - Lowest Retention: Spain (0.04%).
 - User Distribution:
-  Highest Total Users (Traffic Source): Email (120,327).
-  Lowest Total Users (Traffic Source): Organic (13,120).
-  Highest Total Users (Event Type): Product and chart (95,634).
-  Least Total Users (Event Type): Cancelling (0).
+- Highest Total Users (Traffic Source): Email (120,327).
+- Lowest Total Users (Traffic Source): Organic (13,120).
+- Highest Total Users (Event Type): Product and chart (95,634).
+- Least Total Users (Event Type): Cancelling (0).
